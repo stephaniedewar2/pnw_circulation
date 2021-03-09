@@ -1,6 +1,6 @@
 # Readme
 
-
+This dataset was created for a course on data curation. It contains two files. One is raw data on the circulation of library materials in the United States for 2018. The second is the normalized data for the Pacific Northwest circulation numbers. The data contains information on physical books, audio, and video materials that were check out, as well as ebooks and digital audio and video materials. The data comes from the Institue of Museum and Library Services. 
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@
 
 ## Normalization
 
-Normalization was done using a z-score. By using a z-score, it is easy to tell which fields each state is above and below average in in terms of circulation, and by how much. Each number represents the distance from the mean in standard deviations, and the positive or negative tells you whether the number is above or below that mean. That average for each categroy for the entire US in 2018 was used as the mean for caluclating the z-scare. 
+Normalization was done using a z-score. By using a z-score, it is easy to tell which fields each state is above and below average in in terms of circulation, and by how much. Each number represents the distance from the mean in standard deviations, and the positive or negative tells you whether the number is above or below that mean. That average for each categroy for the entire US in 2018 was used as the mean for caluclating the z-score. 
 
 ## Naming
 
