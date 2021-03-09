@@ -50,8 +50,23 @@ For this project, the file with always start with pnwcirc, followed by the year,
 | **accessLevel** | public |
 | **fn** | Stephanie Dewar |
 | **hasEmail** | mailto:dewars@uw.edu |
-|
+| **describedBy** | https://github.com/stephaniedewar2/pnw_circulation |
 | **description** | This dataset contains circulation information for public libraries in the Pacific Northwest (Washington, Idaho, and Oregon) for the year 2018. |
+| **accessURL** | https://github.com/stephaniedewar2/pnw_circulation/blob/main/pnwcirc.2018.normal.csv |
+| **downloadURL** | https://github.com/stephaniedewar2/pnw_circulation/blob/bd9a6794c1976e9e009c7af02d9db5880812c7dd/pnwcirc.2018.normal.csv |
+| **format** | CSV |
+| **mediaType** | CSV |
+| **issued** | 2020-03-04 |
+| **keyword** | “libraries”, “circulation”, “washington”, “oregon”, “idaho” |
+| **language** | English |
+| **modified** | 2020-03-08 |
+| **publisher** | Stephanie Dewar |
+| **references** | https://www.imls.gov/sites/default/files/pls_fy2018_data_files_csv.zip |
+| **rights** | This is public-use data available at no cost. Reuse and redistribution permitted. |
+| **spatial** | Pacific Northwest |
+| **temporal** | 2018-01/2018-12 |
+| **theme** | libraries, circulation |
+| **title** | PNW Library Circulation |
 
 
 ## Contact Information
