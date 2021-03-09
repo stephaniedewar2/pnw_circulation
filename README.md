@@ -44,6 +44,15 @@ For this project, the file with always start with pnwcirc, followed by the year,
 
 ## Structured Metadata
 
+| **Attribute** | **Value** |
+| --- | --- | 
+| **conformsTo** | https://project-open-data.cio.gov/v1.1/schema |
+| **accessLevel** | public |
+| **fn** | Stephanie Dewar |
+| **hasEmail** | mailto:dewars@uw.edu |
+|
+| **description** | This dataset contains circulation information for public libraries in the Pacific Northwest (Washington, Idaho, and Oregon) for the year 2018. |
+
 
 ## Contact Information
 
